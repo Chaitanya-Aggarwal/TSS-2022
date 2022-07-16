@@ -9,7 +9,7 @@ having a good hold of C++ will certainly help. It's a course specically desgined
 Here is the overview of the course:
 
 * Week1:	[Getting started with the basics - learning the meaning of common buzzwords](https://github.com/wncc/TSS-2022/tree/main/Introduction%20to%20Blockchain/Week%201)
-* Week2:	[Advanced concepts in Solidity and Desiging complex Smart Contracts]
+* Week2:	[Advanced concepts in Solidity and Desiging complex Smart Contracts](https://github.com/wncc/TSS-2022/blob/main/Introduction%20to%20Blockchain/WEEK%202.md)
 * Week3:	Coming Soon
 * Week4:	Coming Soon
 
